@@ -1,5 +1,11 @@
 # Sampling_Ananya_Thomas_102017024
 
+Name : Ananya Thomas<BR>
+Roll No : 102017024<BR>
+Sub Group : CSE 1
+
+# Introduction
+
 In this assignment I will be :
 * Converting a highly imbalanced data into a balanced data.
 * Creating five samples using five different sampling techniques.
