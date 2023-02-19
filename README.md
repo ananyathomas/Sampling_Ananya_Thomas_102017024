@@ -31,6 +31,10 @@ The 5 models used were :
 *   CNN
 
 On comparing the five models on the five samples we can conclude that :
+
+<img width="460" alt="Screenshot 2023-02-19 at 11 43 43 PM" src="https://user-images.githubusercontent.com/72699766/219966947-9ae549b1-97b9-4bc8-bbb5-b271ce1128be.png">
+
+
 The top 3 most optimal models are :
 * With a **100%** accuracy
   - The Random Forest Classifier model on the sample created using Simple Random Sampling.
